@@ -10,4 +10,11 @@ Nhưng thật không may mắn, để biết chính xác nơi có lượng muố
 
 Để tạo ra các hình ảnh địa chấn và kết xuất 3D chính xác nhất, TGS (công ty dữ liệu địa lý hàng đầu thế giới) hy vọng cộng đồng học máy của Kaggle sẽ có thể xây dựng một thuật toán tự động và xác định chính xác nếu mục tiêu dưới mặt là muối hay không.
 
+## Dữ liệu:
+
+Dữ liệu địa chấn được thu thập bằng cách sử dụng những phản xạ địa chấn. Phương pháp này đòi hỏi một nguồn năng lượng địa chấn được kiểm soát, chẳng hạn như khí nén hoặc máy rung địa chấn, và các cảm biến ghi lại sự phản xạ từ các sự rung chuyển bên dưới bề mặt. Dữ liệu được ghi lại sau đó được xử lý để tạo chế độ xem 3D về nội thất của trái đất. Phản xạ địa chấn tương tự như X-ray, sonar và echolocation.
+
+Một hình ảnh địa chấn được tạo ra từ những hình ảnh phản xạ của sự rung chuyển 
+
+![](http://pcable.com/uc/wr/motion01/comp_01-pcable_2d.jpg)
 ## Đánh giá
