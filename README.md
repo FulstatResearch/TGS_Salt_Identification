@@ -16,6 +16,9 @@ Dữ liệu địa chấn được thu thập bằng cách sử dụng những p
 
 Một hình ảnh địa chấn được tạo ra từ những hình ảnh phản xạ của sự rung chuyển vật chất. Những hình ảnh địa chấn cho thấy ranh giới khác nhau giữa những loại chuyển động vật chất. Về lý thuyết, sức mạnh của sự phản chiếu tỷ lệ thuận với sự khác biệt về tính chất vật lý giữa các bề mặt. Trong khi hình ảnh địa chấn cho thấy ranh giới cũng như giới hạn của sự rung chuyển, họ không nói nhiều về những sự chuyển động vật chất; một số loại rung chuyển vật chất dễ xác định trong khi một số thì khó.
 
+Có một vài khu vực trên thế giới có lượng muối lớn dưới bề mặt. Một trong những thách thức của hình ảnh địa chấn là xác định muối ở bên dưới bề mặt. Mật độ của muối luôn là 2.14 g/cc thấp hơn so với vật chất xung quanh. Vận tốc địa chấn của muối là 4,5 km/s, thường nhanh hơn các loại đá xung quanh. Sự khác biệt này tạo ra một sự phản chiếu sắc nét tại giao diện trầm tích muối. Thông thường muối là một loại chất rắn vô định hình không có nhiều cấu trúc bên trong. Điều này có nghĩa rằng thường không có nhiều phản xạ bên trong muối, trừ khi có những trầm tích bị mắc kẹt bên trong nó. Vận tốc địa chấn cao bất thường của muối có thể tạo ra các vấn đề với hình ảnh địa chấn.
+
+Dữ liệu là tập hợp các hình ảnh được chọn tại các vị trí khác nhau ngẫu nhiên ở lớp dưới mặt của hình ảnh địa chấn. Các hình ảnh có kích thước 101 x 101 pixel và mỗi pixel được phân loại là muối hoặc trầm tích. Ngoài các hình ảnh địa chấn, độ sâu của vị trí được chụp ảnh được cung cấp cho mỗi hình ảnh. Mục tiêu của cuộc thi là phân khúc các khu vực có chứa muối.
 
 ![](http://pcable.com/uc/wr/motion01/comp_01-pcable_2d.jpg)
 ## Đánh giá
