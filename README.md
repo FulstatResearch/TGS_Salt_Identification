@@ -12,7 +12,7 @@ Nhưng thật không may mắn, để biết chính xác nơi có lượng muố
 
 ## Dữ liệu:
 
-Dữ liệu địa chấn được thu thập bằng cách sử dụng những phản xạ địa chấn. Phương pháp này đòi hỏi một nguồn năng lượng địa chấn được kiểm soát, chẳng hạn như khí nén hoặc máy rung địa chấn, và các cảm biến ghi lại sự phản xạ từ các sự rung chuyển bên dưới bề mặt. Dữ liệu được ghi lại sau đó được xử lý để tạo chế độ xem 3D về nội thất của trái đất. Phản xạ địa chấn tương tự như X-ray, sonar và echolocation.
+Dữ liệu địa chấn được thu thập bằng cách sử dụng những phản xạ địa chấn. Phương pháp này đòi hỏi một nguồn năng lượng địa chấn được kiểm soát, chẳng hạn như khí nén hoặc máy rung địa chấn, và các cảm biến ghi lại sự phản xạ từ các sự rung chuyển bên dưới bề mặt. Dữ liệu được ghi lại sau đó được xử lý để tạo chế độ xem 3D của trái đất. Phản xạ địa chấn tương tự như X-ray, sonar và echolocation.
 
 Một hình ảnh địa chấn được tạo ra từ những hình ảnh phản xạ của sự rung chuyển vật chất. Những hình ảnh địa chấn cho thấy ranh giới khác nhau giữa những loại chuyển động vật chất. Về lý thuyết, sức mạnh của sự phản chiếu tỷ lệ thuận với sự khác biệt về tính chất vật lý giữa các bề mặt. Trong khi hình ảnh địa chấn cho thấy ranh giới cũng như giới hạn của sự rung chuyển, họ không nói nhiều về những sự chuyển động vật chất; một số loại rung chuyển vật chất dễ xác định trong khi một số thì khó.
 
